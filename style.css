@@ -1,7 +1,7 @@
 div { 
   display: grid;
-  grid-template-columns: 100px auto 30% 1fr;
-  grid-template-rows: 100px auto 30% 1fr;
+  grid-template-columns: 150px auto 50% 1fr;
+  grid-template-rows: 150px auto 50% 1fr;
   aligm-items: center;
   background-color: lightpink;
   color: black;
