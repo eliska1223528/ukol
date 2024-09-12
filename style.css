@@ -1,1 +1,19 @@
+div { 
+  display: grid;
+  grid-template-columns: 100px auto 30% 1fr;
+  grid-template-rows: 100px auto 30% 1fr;
+  aligm-items: center;
+  background-color: lightpink;
+  color: black;
+  width: 75%
+  heigh: 100px;
+  margin: 20PX;
+} 
 
+p: { 
+  color: black;
+}
+
+p:hover { 
+  color: black;
+}
